@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlToLinq.Core", "SqlToLinq.Core\SqlToLinq.Core.csproj", "{A3312CB1-3F02-4EE0-A58C-F2BD1411D695}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlToLinq.WinUi", "SqlToLinq.WinUi\SqlToLinq.WinUi.csproj", "{268C5116-1154-4B15-9761-7E65E0E7E3C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SyntaxHighlighter", "SyntaxHighlighter", "{2FD3CFA9-62DB-4029-A4B2-B52A350230FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastColoredTextBoxCore", "FastColoredTextBoxCore\FastColoredTextBoxCore.csproj", "{460E75B4-1B30-4729-A653-D214CA18F8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3312CB1-3F02-4EE0-A58C-F2BD1411D695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3312CB1-3F02-4EE0-A58C-F2BD1411D695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3312CB1-3F02-4EE0-A58C-F2BD1411D695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3312CB1-3F02-4EE0-A58C-F2BD1411D695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268C5116-1154-4B15-9761-7E65E0E7E3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C5116-1154-4B15-9761-7E65E0E7E3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C5116-1154-4B15-9761-7E65E0E7E3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C5116-1154-4B15-9761-7E65E0E7E3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E75B4-1B30-4729-A653-D214CA18F8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E75B4-1B30-4729-A653-D214CA18F8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460E75B4-1B30-4729-A653-D214CA18F8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460E75B4-1B30-4729-A653-D214CA18F8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{460E75B4-1B30-4729-A653-D214CA18F8C7} = {2FD3CFA9-62DB-4029-A4B2-B52A350230FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F68A0FED-DF60-4D2B-BA20-9B01FF715E78}
+	EndGlobalSection
+EndGlobal
